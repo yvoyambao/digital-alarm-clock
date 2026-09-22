@@ -1,4 +1,4 @@
-## Digital Alarm-Clock
+## Digital Alarm Clock
 A fully custom digital alarm clock built on the Arduino Uno (ATmega328P), driving a 4-digit 7-segment display through one 74HC595 shift register, keeping accurate time with a RTC, and controlled entirely through four push buttons. 
 
 ## Demo
